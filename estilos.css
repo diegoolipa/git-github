@@ -1,5 +1,18 @@
-body{
+#container{
+    margin: 2em;
+}
+
+#cuerpo{
     color: brown;
     font-family: Adorable;
     text-align: center;
+}
+#cabecera{
+    background: darkblue;
+    box-shadow: brown;
+    padding: 1em;
+    color: white;
+}
+#c1{
+    margin-left: 2em ;
 }
